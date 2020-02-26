@@ -25,6 +25,6 @@ The libraries we will be using will be:
 
 * `reviews_Lyon.csv` and `reviews_Bordeaux.csv` - csv containing the **listing_id**, **date** of review, **reviewer_id**, **reviewer_name**, and reviewer **comments** for the reviewed stays.
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Sources
 
 Data used are provided by AirBnB : [data](http://insideairbnb.com/get-the-data.html)
