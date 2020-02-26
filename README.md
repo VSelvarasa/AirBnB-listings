@@ -2,7 +2,7 @@
 A Look Into Home Availability, Pricing and Reviews
 
 ## Motivation
-We will take a closer look at the AirBnB listings associated with Lyon and Bordeaux (France). I will try to answer these questions below, in the jupyter notebook and there (https://medium.com/@vally.selvarasa/airbnb-in-france-lyon-vs-bordeaux-616315f8d2ec). 
+We will take a closer look at the AirBnB listings associated with Lyon and Bordeaux (France). We will try to answer these questions below, in the jupyter notebook and there (https://medium.com/@vally.selvarasa/airbnb-in-france-lyon-vs-bordeaux-616315f8d2ec). 
 
 - How are the availability and the pricing of the properties in both cities throughout the year?
 - Who visit more each of the cities ?
