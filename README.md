@@ -1,15 +1,15 @@
 # AirBnB-listings
 A Look Into Home Availability, Pricing and Reviews
 
-## Motivation
-We will take a closer look at the AirBnB listings associated with Lyon and Bordeaux (France). We will try to answer these questions below, in the jupyter notebook and there (https://medium.com/@vally.selvarasa/airbnb-in-france-lyon-vs-bordeaux-616315f8d2ec). 
+## Aims
+We will take a closer look at the AirBnB listings associated with Lyon and Bordeaux (France). We will try to answer these questions below, in the Jupyter notebook and there (https://medium.com/@vally.selvarasa/airbnb-in-france-lyon-vs-bordeaux-616315f8d2ec). 
 
 - How are the availability and the pricing of the properties in both cities throughout the year?
 - Who visit more each of the cities ?
 - How does the pricing increase or decrease by neighborhood in Lyon ?
 - How well can we predict an Airbnb’s price? Which variables are important in the prediction?
 
-## Installation
+## Python libraries
 Python 3.7.3
 
 The libraries we will be using will be:
@@ -18,7 +18,7 @@ The libraries we will be using will be:
 
 [langdetect] (https://pypi.org/project/langdetect/)
 
-## File Descriptions
+## Files 
 * `calendar_Lyon.csv` and `calendar_Bordeaux.csv` - csv containing **availability**, and **price** for every listing/date combination
 
 * `listings_Lyon.csv` and `listings_Bordeaux.csv` - **id**, information about **location, reviews, amenities, price...** for each listing
