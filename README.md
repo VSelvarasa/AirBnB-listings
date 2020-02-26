@@ -2,7 +2,7 @@
 A Look Into Home Availability, Pricing and Reviews
 
 ## Motivation
-For this project, I wanted to look deep into AirBnB datasets for Lyon and Bordeaux (France). I will be focusing on answering these questions below in the jupyter notebook and there (https://medium.com/@vally.selvarasa/airbnb-in-france-lyon-vs-bordeaux-616315f8d2ec). 
+We will take a closer look at the AirBnB listings associated with Lyon and Bordeaux (France). I will try to answer these questions below, in the jupyter notebook and there (https://medium.com/@vally.selvarasa/airbnb-in-france-lyon-vs-bordeaux-616315f8d2ec). 
 
 - How are the availability and the pricing of the properties in both cities throughout the year?
 - Who visit more each of the cities ?
@@ -10,8 +10,9 @@ For this project, I wanted to look deep into AirBnB datasets for Lyon and Bordea
 - How well can we predict an Airbnb’s price? Which variables are important in the prediction?
 
 ## Installation
+Python 3.7.3
+
 The libraries we will be using will be:
-Python 3.7.3 Anaconda Distribution
 
 [folium] (https://python-visualization.github.io/folium/)
 
